@@ -13,7 +13,7 @@ set number
 set ruler
 
 "配色风格
-colorscheme evening 
+colorscheme koehler 
 
 "设置退格键可删除的位置
 set backspace=indent,eol,start
