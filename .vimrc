@@ -13,7 +13,7 @@ set number
 set ruler
 
 "配色风格
-colorscheme koehler 
+colorscheme koehler
 
 "设置退格键可删除的位置
 set backspace=indent,eol,start
@@ -82,7 +82,6 @@ endif
 
 call pathogen#infect()
 
-set guifont=Monospace
 set nocompatible
 "let g:Powerline_symbols = 'fancy'
 
